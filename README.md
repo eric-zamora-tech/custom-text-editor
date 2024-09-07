@@ -1,1 +1,1 @@
-# custom-text-editor
+# Custom Text Editor in C
